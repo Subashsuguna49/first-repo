@@ -1,3 +1,3 @@
 print("hello world")
 
-print ("addition : " ,5+3 )
+print ("addition : " ,5+2 )
